@@ -1,5 +1,7 @@
 # Gimbal Task
 
+Google Doc Version of this README:
+https://docs.google.com/document/d/1BfCOYtP85jEY19XnY2wmbgGzpKgPAhrvZc5Tv-cqNJs/edit?usp=sharing
 
 ## Prompt:
 
