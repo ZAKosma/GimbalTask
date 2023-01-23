@@ -3,11 +3,6 @@
 Google Doc Version of this README:
 https://docs.google.com/document/d/1BfCOYtP85jEY19XnY2wmbgGzpKgPAhrvZc5Tv-cqNJs/edit?usp=sharing
 
-## Prompt:
-
-
-##### [https://playbookxr.notion.site/Unity-Developer-Interview-7d52f6574cb74de99ad8f88e7552d8f3](https://playbookxr.notion.site/Unity-Developer-Interview-7d52f6574cb74de99ad8f88e7552d8f3)
-
 
 ## Implementation Roadmap: (what I planned to do)
 
